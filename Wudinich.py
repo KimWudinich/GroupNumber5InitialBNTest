@@ -8,3 +8,4 @@ def again():
     else:
         exit()
 
+main()
